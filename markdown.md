@@ -29,7 +29,7 @@
 
 Например:
 
-![Зиверт](https://avatars.mds.yandex.net/i?id=0ea405571daaee5111e6b02217665af2eea127ed-4322260-images-thumbs&n=13)
+![Лимур](https://wallpaperstrend.com/wp-content/uploads/Animals-and-Birds/Animals01/lemur-sit-and-watch-3840x2160.jpg)
 
 
 Второй вариант ссылка на реальное изображение с указанием локального адреса.
