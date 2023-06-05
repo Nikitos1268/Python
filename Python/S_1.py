@@ -112,6 +112,6 @@ else:
     
 import time
 while True:
-    print("Программа скоро закроется!")
+    print("/nПрограмма скоро закроется!")
     time.sleep(10)
     exit()
