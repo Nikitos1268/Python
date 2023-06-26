@@ -20,7 +20,16 @@ poem = poem.split()
 if len(set(map(vowel_count,poem))) == 1:
     print('Парам пам-пам')
 else:
-    print('Пам парам')    
+    print('Пам парам')   
+
+
+#song = input("Введите текст песни ")
+#str = song.lower().split()
+#lst = [sum(i in 'аеёиоуыэюя' for i in lst2) for lst2 in str]
+#if len(set(lst)) == 1:
+#    print("Парам пам-пам")
+#else:
+#    print("Пам парам") 
     
     
 # Задача 36: Напишите функцию print_operation_table(operation, num_rows=6, num_columns=6),
